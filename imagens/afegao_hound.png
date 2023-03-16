@@ -1,0 +1,1666 @@
+
+<!-- saved from url=(0070)https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/ -->
+<html class="jetpack-lazy-images-js-enabled"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="facebook-domain-verification" content="ty1uvmcwbfq01cv4ybai5d75jhunym">
+<link href="./afegao_hound_files/css" rel="stylesheet">
+<link rel="stylesheet" href="./afegao_hound_files/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="./afegao_hound_files/slick.css">
+
+
+<link rel="stylesheet" type="text/css" href="./afegao_hound_files/hgzm7.css" media="all">
+<link href="./afegao_hound_files/jquery.bxslider.min.css" rel="stylesheet">
+
+<script async="" src="./afegao_hound_files/clarity.js"></script><script type="text/javascript" async="" src="./afegao_hound_files/e4zd06g7.js"></script><script type="text/javascript" async="" src="./afegao_hound_files/analytics.js"></script><script async="" src="./afegao_hound_files/41zcf9uvuq"></script><script async="" src="./afegao_hound_files/beacon.js"></script><script async="" src="./afegao_hound_files/analytics.js"></script><script src="./afegao_hound_files/619435406014552" async=""></script><script src="./afegao_hound_files/1710911715699855" async=""></script><script async="" src="./afegao_hound_files/fbevents.js"></script><script async="" src="./afegao_hound_files/gtm.js"></script><script async="" src="./afegao_hound_files/gpt.js"></script>
+<script>
+let nextSlotId = 1;
+window.googletag = window.googletag || {
+cmd: []
+}, googletag.cmd.push(function() {
+googletag.pubads().disableInitialLoad(), googletag.pubads().enableVideoAds(), googletag.pubads().collapseEmptyDivs(), googletag.pubads().enableSingleRequest(), googletag.pubads().enableAsyncRendering(), googletag.enableServices()
+});
+const adTarget = (e, t, o) => {
+let a = `adslot${nextSlotId++}`,
+g = document.createElement("div");
+g.id = a, o.appendChild(g), googletag.cmd.push(function() {
+let o = googletag.defineSlot(e, t, a).addService(googletag.pubads());
+googletag.display(a), googletag.pubads().refresh([o])
+})
+},
+loadAd = e => {
+let t = e.getAttribute("data-sizes");
+const o = "fluid" == t ? "fluid" : t.split(",").map(e => e.split("x")).map(e => [parseInt(e[0], 10), parseInt(e[1], 10)]),
+a = e.getAttribute("data-adunit");
+console.log(`Loading: ${a}`), adTarget(a, o, e)
+};
+document.addEventListener("DOMContentLoaded", function() {
+document.querySelectorAll(".dfpunit:empty").forEach(function(e, t) {
+loadAd(e)
+})
+});
+</script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<title>Tudo Sobre a Raça Afegão Hound - Características, Fotos e muito mais - Portal do Dog</title>
+<meta name="description" content="Veja tudo sobre a raça de cachorro Afegão Hound, curiosidades e fotos do Afegão Hound, conheça as principais características do Afegão Hound e muito mais.">
+<link rel="canonical" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Tudo Sobre a Raça Afegão Hound - Características, Fotos e muito mais - Portal do Dog">
+<meta property="og:description" content="Veja tudo sobre a raça de cachorro Afegão Hound, curiosidades e fotos do Afegão Hound, conheça as principais características do Afegão Hound e muito mais.">
+<meta property="og:url" content="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">
+<meta property="og:site_name" content="Portal do Dog - Para quem ama cachorros!">
+<meta property="article:publisher" content="https://www.facebook.com/portaldodog">
+<meta property="article:modified_time" content="2019-07-08T05:04:45+00:00">
+<meta property="og:image" content="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/07/afegao-hound.jpg?fit=1000%2C286&amp;ssl=1">
+<meta property="og:image:width" content="1000">
+<meta property="og:image:height" content="286">
+<meta property="og:image:type" content="image/jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@PortaldoDog">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/","url":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/","name":"Tudo Sobre a Raça Afegão Hound - Características, Fotos e muito mais - Portal do Dog","isPartOf":{"@id":"https://www.portaldodog.com.br/cachorros/#website"},"primaryImageOfPage":{"@id":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/#primaryimage"},"image":{"@id":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/07/afegao-hound.jpg?fit=1000%2C286&ssl=1","datePublished":"2015-07-05T03:15:20+00:00","dateModified":"2019-07-08T05:04:45+00:00","description":"Veja tudo sobre a raça de cachorro Afegão Hound, curiosidades e fotos do Afegão Hound, conheça as principais características do Afegão Hound e muito mais.","breadcrumb":{"@id":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/#primaryimage","url":"https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/07/afegao-hound.jpg?fit=1000%2C286&ssl=1","contentUrl":"https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/07/afegao-hound.jpg?fit=1000%2C286&ssl=1","width":1000,"height":286},{"@type":"BreadcrumbList","@id":"https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portal do Dog","item":"https://www.portaldodog.com.br/cachorros/"},{"@type":"ListItem","position":2,"name":"Afegão Hound"}]},{"@type":"WebSite","@id":"https://www.portaldodog.com.br/cachorros/#website","url":"https://www.portaldodog.com.br/cachorros/","name":"Portal do Dog - Para quem ama cachorros!","description":"Portal do Dog - O seu portal completo sobre cachorros e cães. Notícias, Vídeos, Guia da Raças.","publisher":{"@id":"https://www.portaldodog.com.br/cachorros/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.portaldodog.com.br/cachorros/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://www.portaldodog.com.br/cachorros/#organization","name":"Portal do Dog","url":"https://www.portaldodog.com.br/cachorros/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.portaldodog.com.br/cachorros/#/schema/logo/image/","url":"https://www.portaldodog.com.br/cachorros/wp-content/uploads/2016/12/portaldodog-logonovo-2.png","contentUrl":"https://www.portaldodog.com.br/cachorros/wp-content/uploads/2016/12/portaldodog-logonovo-2.png","width":350,"height":86,"caption":"Portal do Dog"},"image":{"@id":"https://www.portaldodog.com.br/cachorros/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/portaldodog","https://twitter.com/PortaldoDog"]}]}</script>
+
+<link rel="dns-prefetch" href="https://i0.wp.com/">
+<link rel="dns-prefetch" href="https://c0.wp.com/">
+<link rel="preconnect" href="https://www.google-analytics.com/">
+<link rel="stylesheet" id="wp-block-library-css" href="./afegao_hound_files/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="./afegao_hound_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./afegao_hound_files/wp-mediaelement.min.css" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+
+<link rel="stylesheet" type="text/css" href="./afegao_hound_files/hgzm7(1).css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./afegao_hound_files/dashicons.min.css" type="text/css" media="all">
+
+
+
+<link rel="stylesheet" type="text/css" href="./afegao_hound_files/hgzm7(2).css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="./afegao_hound_files/jetpack.css" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://www.portaldodog.com.br/cachorros/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.portaldodog.com.br/cachorros/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.portaldodog.com.br/cachorros/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.0.3">
+<link rel="shortlink" href="https://www.portaldodog.com.br/cachorros/?p=45860">
+<link rel="alternate" type="application/json+oembed" href="https://www.portaldodog.com.br/cachorros/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.portaldodog.com.br%2Fcachorros%2Fracas-cachorros%2Fafegao-hound%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.portaldodog.com.br/cachorros/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.portaldodog.com.br%2Fcachorros%2Fracas-cachorros%2Fafegao-hound%2F&amp;format=xml">
+
+<meta property="fb:pages" content="446569528708091"><script type="text/javascript" src="./afegao_hound_files/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.portaldodog.com.br\/cachorros\/racas-cachorros\/afegao-hound\/"},"headline":"Afeg\u00e3o Hound","image":{"@type":"ImageObject","url":"https:\/\/www.portaldodog.com.br\/cachorros\/wp-content\/uploads\/2015\/07\/afegao-hound.jpg","width":1000,"height":286},"datePublished":"2015-07-05T00:15:20","dateModified":"2019-07-08T02:04:45","author":{"@type":"Person","name":"Nayara Livero"},"publisher":{"@type":"Organization","name":"Portal do Dog - Para quem ama cachorros!","logo":{"@type":"ImageObject","url":"https:\/\/www.portaldodog.com.br\/cachorros\/wp-content\/uploads\/2020\/09\/pdd-120x60.png"}}}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Home","url":"\/cachorros"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Not\u00edcias","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/noticias\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Adestramento","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/convivencia\/adestramento\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Curiosidades","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/curiosidades\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Dicas","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/dicas\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Filhotes","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/convivencia\/filhotes\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Listas","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/listas\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Ra\u00e7as","url":"\/cachorros\/racas-de-cachorros"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Sa\u00fade","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/saude\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Gatos","url":"https:\/\/www.portaldodog.com.br\/cachorros\/category\/momento-animal\/gatos\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Outros","url":"https:\/\/www.portaldodog.com.br\/cachorros\/outros\/"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Portal do Dog - Para quem ama cachorros!","url":"https:\/\/www.portaldodog.com.br\/cachorros","potentialAction":[{"@type":"SearchAction","target":"https:\/\/www.portaldodog.com.br\/cachorros\/?s={search_term_string}","query-input":"required name=search_term_string"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.portaldodog.com.br\/cachorros\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.portaldodog.com.br\/cachorros\/racas-cachorros\/afegao-hound\/","name":"Afeg\u00e3o Hound"}}]}</script><style>img#wpstats{display:none}</style>
+<script>
+var bannerDesktopLink = 'https://www.portaldodog.com.br/cachorros/wp-admin/admin-ajax.php?action=ads_redirect&v=586557028';
+var bannerMobileLink = 'https://www.portaldodog.com.br/cachorros/wp-admin/admin-ajax.php?action=ads_redirect&mobile=1&v=494684929';
+//var bannerViewLink = 'https://www.portaldodog.com.br/cachorros/wp-admin/admin-ajax.php?action=ads_view&v=784984980';
+</script>
+<meta name="onesignal" content="wordpress-plugin">
+<script>
+window.OneSignal = window.OneSignal || [];
+OneSignal.push( function() {
+OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+OneSignal.setDefaultNotificationUrl("https://www.portaldodog.com.br/cachorros");
+var oneSignal_options = {};
+window._oneSignalInitOptions = oneSignal_options;
+oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'ef53b85a-0cc6-454b-b327-841d4dec5f6d';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Inscrição Realizada!";
+oneSignal_options['welcomeNotification']['message'] = "Obrigado por sua inscrição";
+oneSignal_options['welcomeNotification']['url'] = "https://www.portaldodog.com.br/";
+oneSignal_options['path'] = "https://www.portaldodog.com.br/cachorros/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Que saber tudo sobre saúde e o bem estar do seu DOG?";
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = "Esse é um exemplo de notificação";
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = "Esse é um exemplo de notificação - Desktop";
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = "Esse é um exemplo de notificação - Mobile";
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = "Esse é um exemplo de notificação - Mobile";
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = "(você pode cancelar a qualquer momento)";
+oneSignal_options['promptOptions']['acceptButtonText'] = "SIM, CLARO!";
+oneSignal_options['promptOptions']['cancelButtonText'] = "Ficar por fora!";
+oneSignal_options['promptOptions']['siteName'] = "https://www.portaldodog.com.br/";
+oneSignal_options['promptOptions']['autoAcceptTitle'] = "Clique em Permitir";
+OneSignal.init(window._oneSignalInitOptions);
+OneSignal.showSlidedownPrompt();      });
+function documentInitOneSignal() {
+var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+}
+if (document.readyState === 'complete') {
+documentInitOneSignal();
+}
+else {
+window.addEventListener("load", function(event){
+documentInitOneSignal();
+});
+}
+</script>
+<style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style> <style type="text/css">
+/* If html does not have either class, do not show lazy loaded images. */
+html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+display: none;
+}
+</style>
+<script>
+document.documentElement.classList.add(
+'jetpack-lazy-images-js-enabled'
+);
+</script>
+<link rel="icon" href="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2019/10/cropped-favicon.png?fit=32%2C32&amp;ssl=1" sizes="32x32">
+<link rel="icon" href="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2019/10/cropped-favicon.png?fit=192%2C192&amp;ssl=1" sizes="192x192">
+<link rel="apple-touch-icon" href="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2019/10/cropped-favicon.png?fit=180%2C180&amp;ssl=1">
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2019/10/cropped-favicon.png?fit=270%2C270&amp;ssl=1">
+<style type="text/css" id="wp-custom-css">
+.disclaimer {
+color: #fff;
+font-size: 12px;
+margin-top: 20px;
+}
+div#banner_top {
+background: #f4f4f4;
+padding: 1px 0;
+z-index: 999999;
+}
+div#banner_top.sticky {
+position: sticky;
+top: 0;
+width: 100%;
+max-width: 100%;
+text-align: center;
+opacity: 0;
+visibility: hidden;
+text-indent: -9999em;
+transition: opacity 0.3s 6s,             visibility 0.3s 6s, text-indent 0s 6s;
+padding: 8px 0;
+}
+.bravecto a{
+display: none!IMPORTANT;
+background-image: url(https://www.bravecto.com.br/dist/img/header/logo_mobile.png);
+background-size: 75%;
+background-repeat: no-repeat;
+background-position: 16px center;
+color: transparent;
+}
+.bravecto a {
+color: transparent!important;
+}
+#header nav ul li.bravecto a:hover {
+background-image: url(https://www.bravecto.com.br/dist/img/header/logo_mobile.png);
+background-size: 75%;
+background-repeat: no-repeat;
+background-position: 16px center;
+}		</style>
+<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<script async="" src="./afegao_hound_files/gpt.js"></script>
+
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || []; 
+var slotTopLeaderboard;
+var slotTopLeaderboard2;
+var topSidebar;
+var middleSidebar;
+var bottomSidebar;
+var mobileAd;
+var stickyFooter;
+var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 10; //sets the refresh interval in seconds
+googletag.cmd.push(function(){
+//Setting up responsible ads via size mapping
+var billboardSizes = googletag.sizeMapping()
+.addSize([1003, 0], [[970, 250],[970, 250],[728, 90]])
+.addSize([783, 0], [728, 90])
+.addSize([320, 0], [[320, 50],[320, 100]])
+.addSize([0, 0], [])
+.build();
+var billboardSizes2 = googletag.sizeMapping()
+.addSize([783, 0], [728, 90])
+.addSize([320, 0], [[320, 50],[320, 100]])
+.addSize([0, 0], [])
+.build();
+var rectangleSizes = googletag.sizeMapping()
+.addSize([783, 0], [[300, 250],[336, 280]])
+.addSize([320, 0], [300, 250])
+.addSize([0, 0], [])
+.build();
+var mobileRectangleSizes = googletag.sizeMapping()
+.addSize([1003, 0], [])
+.addSize([783, 0], [])
+.addSize([320, 0], [300, 250])
+.addSize([0, 0], [])
+.build();
+var skyscraperSizes = googletag.sizeMapping()
+.addSize([1003, 0], [[300, 600],[160, 600]])
+.addSize([0, 0], [])
+.build();
+var stickyFooterSizes = googletag.sizeMapping()
+.addSize([783, 0], [728, 90])
+.addSize([320, 0], [[320, 50],[320, 100]])
+.addSize([0, 0], [])
+.build();
+//Initializing GPT ad units
+slotTopLeaderboard = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard', [320,50], 'div-gpt-ad-top-leaderboard')
+.defineSizeMapping(billboardSizes)
+.addService(googletag.pubads());
+slotTopLeaderboard2 = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard', [320,50], 'div-gpt-ad-top-leaderboard-2')
+.defineSizeMapping(billboardSizes2)
+.addService(googletag.pubads());
+topSidebar = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Content-Box', [300, 250], 'div-gpt-ad-top-sidebar')
+.defineSizeMapping(rectangleSizes)
+.addService(googletag.pubads());
+middleSidebar = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Content-Box', [300, 250], 'div-gpt-ad-middle-sidebar')
+.defineSizeMapping(rectangleSizes)
+.addService(googletag.pubads());
+bottomSidebar = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Halfpage', [160, 600], 'div-gpt-ad-bottom-sidebar')
+.defineSizeMapping(skyscraperSizes)
+.addService(googletag.pubads());
+mobileAd = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Content-Box', [300, 250], 'div-gpt-ad-mobile-banner')
+.defineSizeMapping(mobileRectangleSizes)
+.addService(googletag.pubads());
+stickyFooter = googletag.defineSlot('/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard', [320, 50], 'div-gpt-ad-bottom-leaderboard')
+.defineSizeMapping(stickyFooterSizes)
+.addService(googletag.pubads());
+//Slot auto-refresh function
+googletag.pubads().addEventListener('impressionViewable', function(event) {
+var slot = event.slot;
+setTimeout(function() {
+googletag.pubads().refresh([slot]);
+}, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+});
+//Enable Lazy Load for out-of-view slots
+googletag.pubads().enableLazyLoad({
+// Fetch slots within 2 viewports.
+fetchMarginPercent: 200,
+// Render slots within 1 viewport.
+renderMarginPercent: 100,
+//If you want you can increase aforementioned values on mobile devices where users tend to scroll faster
+mobileScaling: 1.0
+});
+//googletag.pubads().collapseEmptyDivs();
+googletag.pubads().disableInitialLoad();
+googletag.enableServices();
+});
+</script>
+<style>
+.ads span.close2 {
+position: absolute;
+top: -18px;
+right: 0;
+background: #000;
+border-radius: 100%;
+width: 22px;
+font-weight: 900;
+color: #fff;
+line-height: 22px;
+}
+</style>
+<script>
+//window.$ = jQuery;
+jQuery(function($) {
+if (window.innerWidth > 1100) {
+$('.ads_false').on('click', function(e) {
+if (!$(e.target).hasClass('ads_false')) {
+return;
+}
+e.preventDefault();
+window.location.href = bannerDesktopLink;
+})
+}
+if (window.innerWidth < 1100) {
+$('#banner_top.custom img').on('click', function(e) {
+e.preventDefault();
+window.location.href = bannerMobileLink;
+})
+}
+})
+</script>
+<style>
+.logo svg {
+color: #fff;
+height: 60px;
+}
+.logo path {
+fill: #fff;
+}
+.elite_vp_sticky {
+zoom: .65;
+}
+</style>
+
+<script>
+(function(w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start': new Date().getTime(),
+event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s),
+dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-WHS5ZDL');
+</script>
+
+
+<script>
+! function(f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function() {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1710911715699855');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1710911715699855&ev=PageView&noscript=1" /></noscript>
+
+<style>
+@media (min-width: 1100px) {
+.webstories-section {
+margin-bottom: 0px;
+}
+#header .container {
+max-width: 1199px;
+}
+.internas .bread {
+margin-top: 40px;
+}
+.container {
+max-width: 1036px;
+}
+.ads_false > .container {
+cursor: auto;
+}
+}
+@media (max-width: 1000px) {
+#banner_top.custom.sticky {
+position: fixed;
+left: 0;
+top: 0;
+display: block;
+visibility: visible;
+opacity: 1;
+z-index: 9999999999999999999999999999999999;
+background: white;
+margin: 0 !important;
+}
+#banner_top.custom.sticky img {
+display: block;
+margin: 0 auto;
+}
+#destaque {
+height: auto !important;
+}
+.banner_iner.sticky {
+position: fixed;
+top: 0;
+left: 0;
+z-index: 999999999999999999999999999999;
+background: white;
+width: 100vw;
+padding: 10px 0;
+}
+.slick-list {
+height: 200px;
+}
+}
+</style>
+<script async="" src="./afegao_hound_files/js"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'AW-605864940');
+</script>
+
+<script>
+jQuery(function() {
+jQuery('iframe[src^="https://www.youtube.com"]').wrap('<div id="iframe-wrapper"></div>')
+})
+</script>
+<style>
+iframe[src^="https://www.youtube.com"] {
+min-width: 100% !important;
+}
+#iframe-wrapper {
+width: 100%;
+position: relative;
+padding-top: 56.2%;
+}
+#iframe-wrapper iframe {
+width: 100% !important;
+height: 100% !important;
+position: absolute;
+left: 0;
+top: 0;
+}
+</style>
+<meta http-equiv="origin-trial" content="Az6AfRvI8mo7yiW5fLfj04W21t0ig6aMsGYpIqMTaX60H+b0DkO1uDr+7BrzMcimWzv/X7SXR8jI+uvbV0IJlwYAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A+USTya+tNvDPaxUgJooz+LaVk5hPoAxpLvSxjogX4Mk8awCTQ9iop6zJ9d5ldgU7WmHqBlnQB41LHHRFxoaBwoAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7FovoGr67TUBYbnY+Z0IKoJbbmRmB8fCyirUGHavNDtD91CiGyHHSA2hDG9r9T3NjUKFi6egL3RbgTwhhcVDwUAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="./afegao_hound_files/pubads_impl_2023031401.js" async=""></script><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="./afegao_hound_files/f.txt"></script><script src="./afegao_hound_files/OneSignalPageSDKES6.js" async=""></script><link rel="preload" href="./afegao_hound_files/f(1).txt" as="script"><script type="text/javascript" src="./afegao_hound_files/f(1).txt"></script><link rel="preload" href="./afegao_hound_files/f(2).txt" as="script"><script type="text/javascript" src="./afegao_hound_files/f(2).txt"></script><link rel="stylesheet" href="./afegao_hound_files/OneSignalSDKStyles.css"><link rel="preload" href="./afegao_hound_files/f(1).txt" as="script"><script type="text/javascript" src="./afegao_hound_files/f(1).txt"></script><link rel="preload" href="./afegao_hound_files/f(2).txt" as="script"><script type="text/javascript" src="./afegao_hound_files/f(2).txt"></script></head>
+<body class="racas-cachorros-template-default single single-racas-cachorros postid-45860 body wp-schema-pro-2.1.2">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHS5ZDL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<script>
+! function(f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function() {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '619435406014552');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=619435406014552&ev=PageView&noscript=1" /></noscript>
+
+<header id="header">
+<div class="container">
+<div class="row top">
+<div class="col-md-6">
+<div id="botao">
+<a class="navbar-toggle collapsed" data-toggle="collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+</div>
+<div class="logo">
+<a href="https://www.portaldodog.com.br/" class="logo brand-logo desktop">
+<img src="./afegao_hound_files/logo_pdd.svg">
+</a>
+
+<a href="https://www.portaldodog.com.br/cachorros"><img class="mobile" src="./afegao_hound_files/logo_mobile.svg" alt=""></a>
+</div>
+</div>
+<div class="col-md-6 text-right">
+<ul class="social_search">
+<li class="social"><a href="https://www.facebook.com/portaldodog"><img src="./afegao_hound_files/facebook.svg"></a></li>
+<li class="social"><a href="https://www.youtube.com/PortaldoDog"><img src="./afegao_hound_files/youtube.svg"></a></li>
+<li class="social"><a href="https://instagram.com/portaldodog/"><img src="./afegao_hound_files/instagram.svg"></a></li>
+<li class="busca"><span class="close">x</span>
+<form action="https://www.portaldodog.com.br/cachorros/">
+<input type="text" name="s" placeholder="Pesquise no portal...">
+<input type="image" src="./afegao_hound_files/lupa.svg">
+</form>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<nav>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<ul id="menu-menu-novo" class="menu"><li id="menu-item-161989" class="home menu-item menu-item-type-custom menu-item-object-custom menu-item-161989"><a href="https://www.portaldodog.com.br/cachorros">Home</a></li>
+<li id="menu-item-161990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161990"><a href="https://www.portaldodog.com.br/cachorros/category/noticias/">Notícias</a></li>
+<li id="menu-item-161991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161991"><a href="https://www.portaldodog.com.br/cachorros/category/convivencia/adestramento/">Adestramento</a></li>
+<li id="menu-item-161992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161992"><a href="https://www.portaldodog.com.br/cachorros/category/curiosidades/">Curiosidades</a></li>
+<li id="menu-item-161993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161993"><a href="https://www.portaldodog.com.br/cachorros/category/dicas/">Dicas</a></li>
+<li id="menu-item-161994" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161994"><a href="https://www.portaldodog.com.br/cachorros/category/convivencia/filhotes/">Filhotes</a></li>
+<li id="menu-item-161995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161995"><a href="https://www.portaldodog.com.br/cachorros/category/listas/">Listas</a></li>
+<li id="menu-item-161996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161996"><a href="https://www.portaldodog.com.br/cachorros/racas-de-cachorros">Raças</a></li>
+<li id="menu-item-161997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161997"><a href="https://www.portaldodog.com.br/cachorros/category/saude/">Saúde</a></li>
+<li id="menu-item-233530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233530"><a href="https://www.portaldodog.com.br/cachorros/category/momento-animal/gatos/">Gatos</a></li>
+<li id="menu-item-161999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161999"><a href="https://www.portaldodog.com.br/cachorros/outros/">Outros</a></li>
+</ul> </div>
+</div>
+</div>
+</nav>
+</header>
+<div class="ads_false">
+<div class="mb-3 mt-3" id="banner_top">
+<div class="banner__iner">
+<div class="container">
+<div class="row">
+<div class="col-12 text-center">
+<div class="code-block code-block-7" style="margin: 8px 0; clear: both;">
+<div id="div-gpt-ad-top-leaderboard-2" class="ad-slot" data-google-query-id="CNS93oOa4f0CFbtPuAQdleYJ9Q">
+
+<div id="google_ads_iframe_/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard_1" name="google_ads_iframe_/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard_1" title="3rd party ad content" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" role="region" aria-label="Advertisement" tabindex="0" style="border: 0px; vertical-align: bottom;" data-load-complete="true" data-google-container-id="2" src="./afegao_hound_files/saved_resource.html"></iframe></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container internas perfil">
+<div class="row spaceb2">
+<div class="col-md-12">
+<div class="bread space2">
+<a href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">Portal do Dog</a> &gt;&gt; <a href="https://www.portaldodog.com.br/racas-cachorros/">Você e seu Amigo</a> &gt;&gt; Afegão Hound </div>
+</div>
+</div>
+</div>
+<article class="perfil">
+<div class="container ">
+<div class="row">
+<div class="col-md-12">
+<header>
+<div class="header">
+<div class="imagem" style="background-image: url(https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/07/afegao-hound.jpg?fit=1000%2C286&amp;ssl=1);">
+</div>
+<div class="resumo">
+<div class="caixa">
+<h1 class="titulo">Afegão Hound</h1>
+<div class="content">
+Sensível e capaz de uma relação estreita com o dono.<br>
+Grupo 10 <br> O porte altivo e sua silhueta ao mesmo tempo forte e flexível.<br>
+Também conhecido como: Afghan, Tazi(Afeganistão), Galgo Afegão </div>
+<a href="https://www.portaldodog.com.br/" class="ver_mais">[+] Ver mais</a>
+</div>
+<div class="share footer">
+<h4>Compartilhe: </h4>
+<ul>
+<li class="facebook"><a href="http://www.facebook.com/share.php?u=https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/" title="Compartilhe esse post no Facebook" onclick="javascript:window.open(this.href,
+&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=360,width=600&#39;);return false;"><img src="./afegao_hound_files/facebook_widget.svg"></a></li>
+<li class="twitter"><a href="http://twitter.com/home?status=Afeg%C3%A3o%20Hound+https://www.portaldodog.com.br/cachorros/?p=45860%20via%20@PortaldoDog" onclick="javascript:window.open(this.href,
+&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=260,width=600&#39;);return false;"><img src="./afegao_hound_files/twitter.svg"></a></li>
+<li class="whatsapp"><a href="whatsapp://send?text=Afeg%C3%A3o%20Hound%20https://www.portaldodog.com.br/cachorros/?p=45860" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Btn Mobile Barra&#39;, &#39;Click&#39;, &#39;WhatsApp&#39;);"><img src="./afegao_hound_files/whatsapp.webp"></a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</header>
+<section class="branco space3 dados info">
+<h2 class="titulo">INFORMAÇÕES GERAIS</h2>
+<div class="background"></div>
+<div class="content">
+<p>Famoso na Europa, sobretudo na Grã-Bretanha, o Galgo Afegão é apreciado na França principalmente como animal de luxo, por causa de sua graça e de seu temperamento, agradável e jovial. Inteligente, meigo e sensível, é muito expansivo com o dono. Dócil com crianças, mostra-se contudo reservado com estranhos.</p>
+<p>Se ele sabe ficar calmo dentro de um apartamento, o Afghan é antes de tudo um esportista, que precisa correr, por isso é preciso oferecer a ele o exercício do qual ele precisa.&nbsp;Por traz desta elegância e nobreza, existe uma personalidade esportista, que o fez um caçador de grandes presas nos desertos e nas montanhas do Afeganistão.</p>
+<p>O Afegão possui uma expressão oriental e imponente. Durante séculos, esta raça foi companheira de príncipes e soberanos.&nbsp;É um cão lebréu (sighthound), na qual caça pela visão e velocidade.</p>
+<p>Foi muito valorizado por sua coragem e capacidade de correr por grandes distancias. Ele caçava animais perigosos como panteras e esperava a uma distância segura até que um caçador em um cavalo pudesse pegá-los. Ele também foi avaliado por sua capacidade de pensar e caçar de forma independente, sem direção humana.</p>
+<p>Por outro lado, pode ser muito divertido e adora fazer palhaçadas. É bastante travesso, podendo até abrir gavetas e pegar roupas e objetos debaixo de nossos narizes.</p>
+<p>Existe um esporte, no qual envolve uma isca mecânica para que os cães percorram a pista, testando sua capacidade de caça pela visão. E o Afegão possui uma excelente visão e articulações do quadril, portanto é um ótimo candidato para esse tipo de esporte.&nbsp;Independência e indiferença de lado, o Galgo Afegão é muito terno quando ele deseja ser e pode ser muito divertido.</p>
+</div>
+</section>
+<div class="container">
+<div class="row">
+<div class="col-12 text-center">
+<div class="code-block code-block-7" style="margin: 8px 0; clear: both;">
+<div id="div-gpt-ad-top-leaderboard-2" class="ad-slot">
+<script>
+googletag.cmd.push(function() {
+googletag.display('div-gpt-ad-top-leaderboard-2');
+googletag.pubads().refresh([slotTopLeaderboard2]).setCollapseEmptyDiv(true);
+});
+</script>
+</div></div>
+</div>
+</div>
+</div>
+<section class="branco space3 dados estatisticas">
+<h2 class="titulo">Estatisticas</h2>
+<div class="background"></div>
+<div class="content">
+<div class="row">
+<div class="col-md-4">
+<div class="grafico">
+<h2 class="h2-racas-icones expectativa">Expectativa de vida</h2>
+<div class="row">
+<div class="col-6">
+<ul class="exp-vida margintop10">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+</ul>
+<div class="col s12 m12 l6">
+<div class="racas-numero-exp">10 anos</div>
+<span class="s-graphs">Expectativa<br>Mínima</span>
+</div>
+</div>
+<div class="col-6">
+<div class="col s12 m12 l6">
+<ul class="exp-vida margintop10">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+</ul>
+<div class="racas-numero-exp">13 anos</div>
+<span class="s-graphs">Expectativa<br>Máxima</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="grafico">
+<h2 class="h2-racas-icones expectativa">Altura</h2>
+<div class="row">
+<div class="col-6">
+<div class="canvas-holder">
+<div class="racas-numero">63</div>
+<span class="unidade-medida">cm</span>
+<canvas id="alturaminima" width="165" height="165" style="width: 165px; height: 165px;">
+</canvas>
+</div>
+<span class="s-graphs space2 mb-4">Altura<br>Minima</span>
+</div>
+<div class="col-6">
+<div class="canvas-holder">
+<div class="racas-numero">74</div>
+<span class="unidade-medida">cm</span>
+<canvas id="alturamaxima" width="165" height="165" style="width: 165px; height: 165px;">
+</canvas>
+</div>
+<span class="s-graphs space2 mb-4">Altura<br>Máxima</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="grafico">
+<h2 class="h2-racas-icones expectativa">Peso</h2>
+<div class="row">
+<div class="col-6">
+<div class="canvas-holder">
+<div class="racas-numero">23</div>
+<span class="unidade-medida">kg</span>
+<canvas id="pesominimo" width="165" height="165" style="width: 165px; height: 165px;">
+</canvas></div>
+<span class="s-graphs space2 mb-4">Peso<br>Minimo</span>
+</div>
+<div class="col-6">
+<div class="canvas-holder">
+<div class="racas-numero">30</div>
+<span class="unidade-medida">kg</span>
+<canvas id="pesomaximo" width="165" height="165" style="width: 165px; height: 165px;">
+</canvas></div>
+<span class="s-graphs space2 mb-4">Peso<br>Máximo</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="branco space3 dados caracteristicas">
+<h2 class="titulo">caracteristicas</h2>
+<div class="background"></div>
+<div class="content">
+<div class="row">
+<div class="col-md-4">
+<div class="caracteristicas clearfix">
+<span>Adaptabilidade</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Nível de afeição</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Bom para apartamento</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Tendência de latir</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Amigável com gatos</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Amigável com crianças</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Amigável com cães</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+</div>
+<div class="col-md-4">
+<div class="caracteristicas clearfix">
+<span>Necessidade de exercícios</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Espaço necessário</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Tosa</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Problemas de saúde</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Inteligência</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Gosto por brincadeiras</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Queda de pelo</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+</div>
+<div class="col-md-4">
+<div class="caracteristicas clearfix">
+<span>Necessidade social</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Amigável com estranhos</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Territorialista</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Facilidade de treinamento</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Cão de guarda</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Tolerância ao frio</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+<div class="caracteristicas clearfix">
+<span>Tolerância ao calor</span><ul class="chart-blocos">
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li class="fillup"></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container">
+<div class="row">
+<div class="col-12 text-center mt-3">
+<div class="code-block code-block-7" style="margin: 8px 0; clear: both;">
+<div id="div-gpt-ad-top-leaderboard-2" class="ad-slot">
+<script>
+googletag.cmd.push(function() {
+googletag.display('div-gpt-ad-top-leaderboard-2');
+googletag.pubads().refresh([slotTopLeaderboard2]).setCollapseEmptyDiv(true);
+});
+</script>
+</div></div>
+</div>
+</div>
+</div>
+<section class="branco space3 dados origem">
+<h2 class="titulo">Origem do Afegão Hound</h2>
+<div class="background"></div>
+<div class="content">
+<p>País: Afeganistão</p>
+<img class="float-right ml-4 desktop" src="./afegao_hound_files/afeganistao.webp">
+<p>Os cães da raça Afegão Hound foram descobertos pelo mundo Ocidental no Afeganistão e regiões vizinhas em meados do século XIX. Antes desta descoberta, pouco se sabe ao certo de sua origem. Acreditava-se que o Afegão existia há milhares no Egito, com a segunda teoria de que a raça evoluiu na Ásia. Muitas pesquisas foram feitas, mas nenhuma forneceu provas para qualquer uma destas especulações.</p>
+<p>A história do Afegão situa-se tão longe que foi apelidado de “Cão da Arca de Noé”.&nbsp;No Afeganistão, o Afegão recebeu o nome Tazi.&nbsp;Em muitos países, esse caçador de antílopes, de gazelas e de panteras das neves foi o favorito de reis e de princesas, que apreciavam sua maneira nobre e elegante, assim como sua misteriosa beleza oriental.</p>
+<p>Na Índia, as Forças Armadas Britâicas o utilizaram como mensageiro ou na guarda de postos militares.&nbsp;Os primeiros Afegãos foram introduzidos na Grã-Bretanha em 1890, e na Franca em 1930. Cães desta raça foram transportados para a Inglaterra em 1925 e para a América em 1926. &nbsp;O ator Zeppo Marx foi um dos primeiros a trazer Afegãos para a América.</p>
+<p>O Afegão foi reconhecido pela AKC (American Kennel Club) em 1926 e foi admitido como membro em 1940.</p>
+<p>Na década de 1970, esta raça ficou mais popular depois de aparecer como animal de estimação da boneca Barbie (Mattel).&nbsp;Afegãos continuam na ativa como caçadores, carregadores de mercadorias e de guardiões no Afeganistão. Os mais belos espécimes habitam as regiões de alta montanha.</p>
+<img class="mobile" src="./afegao_hound_files/afeganistao.webp">
+</div>
+</section>
+<section class="branco space3 dados curiosidades">
+<h2 class="titulo">Curiosidades sobre o Afegão Hound</h2>
+<div class="background"></div>
+<div class="content">
+<p>– Considerada umas das raças mais antigas que se tem noticia, o Afegão foi apelidado de “Cão da Arca de Noé”;</p>
+<p>– O Afegão&nbsp;Hound se destaca por seu olhar distante, topete longo e sedoso; bela pelagem ;ossos dos quadris proeminentes; grandes pés; e cauda que tem forma de&nbsp;um anel no final;</p>
+<p>– No Ranking&nbsp;de inteligência das raças caninas desenvolvido por&nbsp;Stanley Coren, o Afegão é considerado o cão que menos responde aos comandos de obediência, ocupando a ultima posição;</p>
+<p>–&nbsp;Oficiais militares britânicos trouxeram esta raça para o Ocidente depois de ser lançado para o fronteira entre Índia e Afeganistão;</p>
+<p>– O ator cômico&nbsp;Zeppo Marx começou a criar esta raça&nbsp;nos Estados Unidos, quando importou “Asra” e “Omar” em 1931;</p>
+<p>– No Westminster Kennel Club Dog Show, uma das mais prestigiadas exposições caninas do mundo, dois Galgos lideraram o pódio, Kabik’s The Challenger (“Pepsi”) em 1957 e Shirkhan of Grandeur em 1983.</p>
+</div>
+</section>
+<section class="branco space3 dados cuidados">
+<h2 class="titulo">Cuidados e Bem Estar</h2>
+<div class="background"></div>
+<div class="content">
+<p>Embora os cães da raça de Afegão Hound possam viver ao ar livre em climas temperados, eles precisam de uma cama macia e é mais adequado que fiquem dentro casa.&nbsp;São tranquilos e calmos, mas também são ativos e precisam de exercícios diários. Eles adoram correr ao ar livre, então precisam de caminhadas na coleira, além de um quintal com cercas altas, pois os galgos são espertos e podem escapar, e uma vez solto, é realmente difícil de resgata-lo. Lembre-se eles podem correr mais rápido do que cavalos!</p>
+<p>Por ser&nbsp;um cão de natureza independente, para treina-lo é necessário ser firme, usando métodos positivos para aumentar sua obediência.&nbsp;O treinamento pode levar um longo tempo e exige paciência.</p>
+<p>Sua pelagem precisa ser escovada e penteada a cada dois ou três dias. O pelo pode ficar emaranhado ou com nós&nbsp;facilmente. Muitos proprietários optam por contratar um profissional para manter o pelo em boas condições porque precisa de muito tempo e&nbsp;dedicação, além da dificuldade; certamente não é um trabalho para os iniciantes.</p>
+<p>Verifique as orelhas do seu Afegão semanalmente e limpe-as com uma bola de algodão umedecido com um produto de limpeza recomendado pelo veterinário.&nbsp;Nunca use cotonetes ou qualquer outra coisa dentro do canal auditivo. Sinais de&nbsp;infecção no ouvido é mal cheiro, vermelhidão, ou o cão freqüentemente balançando a cabeça ou coçando as orelhas.</p>
+<p>Escovar os dentes do seu Afegão&nbsp;pelo menos duas ou três vezes por semana para remover a formação de tártaro e as bactérias que se escondem no seu interior. A escovação diária é ainda melhor se você quiser prevenir doenças da gengiva e mau hálito.</p>
+<p>Cortar as unhas uma ou duas vezes por mês. Unhas bem aparadas evitam problemas nas patas e pernas arranhadas. Cuidado ao cortar as unhas para não aparar muito curtas e causar sangramento e dor no animal. Se tiver duvida de como fazer procure ajuda do veterinário ou tosador.</p>
+<p>Verifique se há feridas, erupções cutâneas, ou sinais de infecção, tais como vermelhidão, sensibilidade, ou inflamação na pele, nos ouvidos, focinho, boca, olhos e nas patas. Os olhos devem ser claros, sem vermelhidão ou secreção. Seu exame cuidadoso semanal vai ajudar a detectar potenciais problemas de saúde mais cedo.</p>
+<p>Na parte de alimentação cuidado para não deixar comida sobrando na vasilha do seu cão. Evite problemas de saúde como a obesidade. A quantidade&nbsp;diária recomendada é de 2 a 2,5 xícaras de alimento seco de alta qualidade por dia, dividido em duas refeições. Isso pode variar conforme a estrutura do cão e o quanto de exercita.</p>
+<p>&nbsp;</p>
+<p><span class="pre-doencas">Predisposição à Doenças:</span> Geralmente saudável, predisposto a alterações oftálmicas, endócrinas, cardíacas e musculares.</p>
+</div>
+</section>
+<div class="container">
+<div class="row">
+<div class="col-12 text-center mt-3">
+<div class="code-block code-block-7" style="margin: 8px 0; clear: both;">
+<div id="div-gpt-ad-top-leaderboard-2" class="ad-slot">
+<script>
+googletag.cmd.push(function() {
+googletag.display('div-gpt-ad-top-leaderboard-2');
+googletag.pubads().refresh([slotTopLeaderboard2]).setCollapseEmptyDiv(true);
+});
+</script>
+</div></div>
+</div>
+</div>
+</div>
+<section class="branco space3 dados aparencia">
+<h2 class="titulo">Aparência Física</h2>
+<div class="background"></div>
+<div class="content">
+<p>O crânio longo e não muito estreito tem occipício saliente e stop pouco marcado. Os olhos dourados ou de preferencia escuros são de formato triangular e colocados ligeiramente em oblíquo. As orelhas, cobertas por longos pelos sedosos, implantadas baixo e bem para atrás, caem harmoniosamente. O pescoço, comprido e forte, ressalta bem a cabeça. O Afegão Hound é um cão longilíneo, de dorso bem achatado e musculoso, de quadris retos, com o peito profundo, os anteriores retilíneos e os ombros fortemente estruturados. Os posteriores, fortes, têm jarretes bem cotovelados. Esse cão se movimenta com andadura flexível e elástica, muito característica. A cauda, não muito curta e pouco densa, é implantada baixo e termina em anel. Ela é mantida alta quando o cão está em ação.</p>
+</div>
+</section>
+<div class="row">
+<div class="col-md-6">
+<section class="branco space3 dados pelagem">
+<h2 class="titulo">Pelagem do Afegão Hound</h2>
+<div class="background"></div>
+<div class="content">
+<p>Longo e de textura muito fina na região das costelas, nos membros anteriores e posteriores e nas laterais. Pelo longo na cabeça, da testa para trás, com um distinto e sedoso topete. No focinho, o pelo é curto. Orelhas e pernas com boa pelagem. O pelo é curto e fechado ao longo do dorso em cães adultos.</p>
+</div>
+</section>
+</div>
+<div class="col-md-6">
+<section class="branco space3 dados cor-pelagem">
+<h2 class="titulo">Cor da Pelagem</h2>
+<div class="background"></div>
+<div class="content">
+<p>Todas as cores são permitidas pelo padrão da raça no American Kennel Club (diretrizes padronizadas para a raça), com certas combinações de cores consideradas mais agradáveis.</p>
+</div>
+</section>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<section class="branco space3 dados filhotes">
+<h2 class="titulo">Filhotes</h2>
+<div class="background"></div>
+<div class="content">
+<p>Os filhotes da raça Afegão Hound possuem uma pelagem semelhante à lã sobre o corpo e um bigode que costuma cair&nbsp;depois dos 12 meses de vida.</p>
+<p>Quando o animal completa aproximadamente 3 anos de idade,&nbsp;seus pelos alcançam seu auge, podendo chegar até as patas se não forem cortados.</p>
+<p>Um filhote de Afegão procura ansiosamente afeto dos membros da família, assim como os filhotes de qualquer raça, mas esse comportamento diminui conforme ele cresce. Esta raça é bastante independente e as vezes pode ser que não goste muito de carinho.</p>
+</div>
+</section>
+</div>
+<div class="col-md-6">
+<section class="branco space3 dados preco">
+<h2 class="titulo">Preço</h2>
+<div class="background"></div>
+<div class="content">
+<p>De R$1.200 a R$ 2.000.</p>
+</div>
+</section>
+</div>
+</div>
+<section class="branco space3 dados perguntas">
+<h2 class="titulo">Perguntas Frequêntes</h2>
+<div class="background"></div>
+<div class="content">
+<h4>O Afegão Hound pode viver em <span>apartamentos</span> ou <span>espaços pequenos</span>?</h4>
+<p>Sim, ele se adapta muito bem dentro de um apartamento, sob a condição de oferecer a ele o exercício que ele precisa, como pequenas caminhadas na coleira.</p>
+<h4>O Afegão Hound é recomendado para <span>crianças</span>?</h4>
+<p> </p><p>Sua natureza independente o torna mais adequado como um acompanhante adulto. Por isso&nbsp;não&nbsp;é recomendado para&nbsp;crianças,&nbsp;os&nbsp;movimentos e&nbsp;ruídos&nbsp;de uma&nbsp;criança&nbsp;pode&nbsp;assustar&nbsp;o&nbsp;Afegão. Mas com a&nbsp;socialização&nbsp;adequada, o&nbsp;Afegão&nbsp;pode se adaptar à vida com uma&nbsp;família&nbsp;com filhos e ser amoroso com eles.</p>
+<p>&nbsp;</p>
+<p></p>
+<h4>O Afegão Hound pode ficar <span>sozinho em casa</span>?</h4>
+<p> </p><p>Apesar de ser independente ele se apega muito ao seu tutor e sua ausência prolongada pode não ser bem aceita.</p>
+<p></p>
+<h4>O Afegão Hound <span>late muito</span>?</h4>
+<p> </p><p>É uma raça super tranquila e calma, e não late muito.</p>
+<p></p>
+<h4> O Afegão Hound <span>solta</span> muito <span>pelo</span>?</h4>
+<p>Com escovação adequada de dois a três dias na semana, a queda de pelos do afegão diminui bastante.</p>
+</div>
+</section>
+<section class="branco space3 dados fotos">
+<h2 class="titulo">Fotos do Afegão Hound</h2>
+<div class="background"></div>
+<div class="content">
+<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 440px;"><div class="slider-fotos" style="width: 28215%; position: relative; transition-duration: 0s; transform: translate3d(-916px, 0px, 0px);"><div style="float: left; list-style: none; position: relative; width: 916px;" class="bx-clone" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-28.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="false"><img src="./afegao_hound_files/afegao-hound-1.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-2.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-3.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-4.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-5.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-6.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-7.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-8.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-9.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-10.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-11.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-12.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-13.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-14.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-15.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-16.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-17.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-18.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-19.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-20.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-21.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-22.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-23.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-24.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-25.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-26.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-27.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-28.jpg"></div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" class="bx-clone" aria-hidden="true"><img src="./afegao_hound_files/afegao-hound-1.jpg"></div></div></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">Prev</a><a class="bx-next" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">Next</a></div></div></div>
+<div id="bx-pager">
+<a data-slide-index="0" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/" class="active"><img src="./afegao_hound_files/afegao-hound-1.jpg"></a>
+<a data-slide-index="1" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-2.jpg"></a>
+<a data-slide-index="2" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-3.jpg"></a>
+<a data-slide-index="3" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-4.jpg"></a>
+<a data-slide-index="4" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-5.jpg"></a>
+<a data-slide-index="5" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-6.jpg"></a>
+<a data-slide-index="6" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-7.jpg"></a>
+<a data-slide-index="7" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-8.jpg"></a>
+<a data-slide-index="8" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-9.jpg"></a>
+<a data-slide-index="9" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-10.jpg"></a>
+<a data-slide-index="10" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-11.jpg"></a>
+<a data-slide-index="11" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-12.jpg"></a>
+<a data-slide-index="12" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-13.jpg"></a>
+<a data-slide-index="13" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-14.jpg"></a>
+<a data-slide-index="14" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-15.jpg"></a>
+<a data-slide-index="15" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-16.jpg"></a>
+<a data-slide-index="16" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-17.jpg"></a>
+<a data-slide-index="17" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-18.jpg"></a>
+<a data-slide-index="18" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-19.jpg"></a>
+<a data-slide-index="19" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-20.jpg"></a>
+<a data-slide-index="20" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-21.jpg"></a>
+<a data-slide-index="21" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-22.jpg"></a>
+<a data-slide-index="22" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-23.jpg"></a>
+<a data-slide-index="23" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-24.jpg"></a>
+<a data-slide-index="24" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-25.jpg"></a>
+<a data-slide-index="25" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-26.jpg"></a>
+<a data-slide-index="26" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-27.jpg"></a>
+<a data-slide-index="27" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/afegao-hound-28.jpg"></a>
+</div>
+</div>
+</section>
+<section class="branco space3 dados videos">
+<h2 class="titulo">Videos do Afegão Hound</h2>
+<div class="background"></div>
+<div class="content">
+<div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 514.781px;"><div class="slider-fotos2" style="width: 9215%; position: relative; transition-duration: 0s; transform: translate3d(-916px, 0px, 0px);"><div style="float: left; list-style: none; position: relative; width: 916px;" class="bx-clone" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/cG84MBZ6HD4.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="false">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/djrTOSn2t9c.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/EYBZHne-BNQ.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/HgK7eN6ieq4.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/3QKeD3UwrTU.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/AZq861nSM7w.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/q6dsLPoFM_0.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/ZKp03qtET3c.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/-yckzxDuW0E.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/cG84MBZ6HD4(1).html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<div style="float: left; list-style: none; position: relative; width: 916px;" class="bx-clone" aria-hidden="true">
+<div id="iframe-wrapper"><iframe width="100%" height="500" class="lazyload" src="./afegao_hound_files/djrTOSn2t9c(1).html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div></div></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">Prev</a><a class="bx-next" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">Next</a></div></div></div>
+<div id="bx-pager2">
+<a data-slide-index="0" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/" class="active"><img src="./afegao_hound_files/default.jpg"></a>
+<a data-slide-index="1" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(1).jpg"></a>
+<a data-slide-index="2" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(2).jpg"></a>
+<a data-slide-index="3" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(3).jpg"></a>
+<a data-slide-index="4" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(4).jpg"></a>
+<a data-slide-index="5" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(5).jpg"></a>
+<a data-slide-index="6" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(6).jpg"></a>
+<a data-slide-index="7" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(7).jpg"></a>
+<a data-slide-index="8" href="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/"><img src="./afegao_hound_files/default(8).jpg"></a>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<section id="racas_mais">
+<div class="onda"></div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="titulo_sec">
+<h2 class="text-center">Raças similares ao Afegão Hound</h2>
+</div>
+</div>
+<div class="col-6 col-md-4 col-lg-2 text-center item">
+<a href="https://www.portaldodog.com.br/cachorros/racas-cachorros/galgo-escoces/"><div class="imagem" style="background-image: url(https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/06/galgo-escoces-tn.jpg?fit=400%2C400&amp;ssl=1);"></div></a>
+<h3>Galgo Escocês</h3>
+</div>
+<div class="col-6 col-md-4 col-lg-2 text-center item">
+<a href="https://www.portaldodog.com.br/cachorros/racas-cachorros/galgo-irlandes/"><div class="imagem" style="background-image: url(https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/05/galgo-irlandes-tn.jpg?fit=400%2C400&amp;ssl=1);"></div></a>
+<h3>Galgo Irlandês</h3>
+</div>
+<div class="col-6 col-md-4 col-lg-2 text-center item">
+<a href="https://www.portaldodog.com.br/cachorros/racas-cachorros/borzoi/"><div class="imagem" style="background-image: url(https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/04/borzoi-tn.jpg?fit=400%2C400&amp;ssl=1);"></div></a>
+<h3>Borzoi</h3>
+</div>
+<div class="col-6 col-md-4 col-lg-2 text-center item">
+<a href="https://www.portaldodog.com.br/cachorros/racas-cachorros/whippet/"><div class="imagem" style="background-image: url(https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/04/whippet-racas-cachorro-02.jpg?fit=1000%2C715&amp;ssl=1);"></div></a>
+<h3>Whippet</h3>
+</div>
+<div class="col-6 col-md-4 col-lg-2 text-center item">
+<a href="https://www.portaldodog.com.br/cachorros/racas-cachorros/greyhound/"><div class="imagem" style="background-image: url(https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2015/05/greyhound-tn.jpg?fit=400%2C400&amp;ssl=1);"></div></a>
+<h3>Greyhound</h3>
+</div>
+</div>
+</div>
+</section>
+<div id="explore">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h4>Explore outras raças</h4>
+<select name="" class="goto_raca">
+<option>Por Raça</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/afegao-hound/">Afegão Hound</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/affenpinscher/">Affenpinscher</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/airedale-terrier/">Airedale Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/akita/">Akita</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/american-staffordshire-terrier/">American Staffordshire Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/basenji/">Basenji</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/basset-hound/">Basset Hound</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/beagle/">Beagle</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/beagle-harrier/">Beagle Harrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bearded-collie/">Bearded Collie</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bedlington-terrier/">Bedlington Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bichon-frise/">Bichon Frisé</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bloodhound/">Bloodhound</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bobtail/">Bobtail</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/boiadeiro-australiano/">Boiadeiro Australiano</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/boiadeiro-bernes/">Boiadeiro Bernês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/border-collie/">Border Collie</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/border-terrier/">Border Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/borzoi/">Borzoi</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/boston-terrier/">Boston Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/boxer/">Boxer</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/buldogue-frances/">Buldogue Francês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/buldogue-ingles/">Buldogue Inglês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bull-terrier/">Bull Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/bulmastife/">Bulmastife</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cairn-terrier/">Cairn Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cane-corso/">Cane Corso</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cao-de-agua-portugues/">Cão de Água Português</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cao-de-crista-chines/">Cão de Crista Chinês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cavalier-king-charles-spaniel/">Cavalier King Charles Spaniel</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/chesapeake-bay-retriever-2/">Chesapeake Bay Retriever</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/chihuahua/">Chihuahua</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/chow-chow/">Chow Chow</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cocker-spaniel-americano/">Cocker Spaniel Americano</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/cocker-spaniel-ingles/">Cocker Spaniel Inglês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/collie/">Collie</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/coton-de-tulear/">Coton de Tuléar</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/dachshund/">Dachshund</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/dalmata/">Dálmata</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/dandie-dinmont-terrier/">Dandie Dinmont Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/doberman/">Dobermann</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/dogo-argentino/">Dogo Argentino</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/dogue-alemao/">Dogue Alemão</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/fila-brasileiro/">Fila Brasileiro</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/fox-terrier-pelo-duro-pelo-liso/">Fox Terrier (Pelo Duro e Pelo Liso)</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/foxhound-ingles/">Foxhound Inglês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/galgo-escoces/">Galgo Escocês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/galgo-irlandes/">Galgo Irlandês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/golden-retriever/">Golden Retriever</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/grande-boiadeiro-suico/">Grande Boiadeiro Suiço</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/greyhound/">Greyhound</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/grifo-da-belgica/">Grifo da Bélgica</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/husky-siberiano/">Husky Siberiano</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/jack-russell-terrier/">Jack Russell Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/king-charles/">King Charles</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/komondoro/">Komondor</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/labradoodle/">Labradoodle</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/labrador-retriever/">Labrador Retriever</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/lakeland-terrier/">Lakeland Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/leonberger/">Leonberger</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/lhasa-apso/">Lhasa Apso</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/lulu-da-pomerania/">Lulu da Pomerânia</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/malamute-do-alasca/">Malamute do Alasca</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/maltes/">Maltês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/mastife/">Mastife</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/mastim-napolitano/">Mastim Napolitano</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/mastim-tibetano/">Mastim Tibetano</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/norfolk-terrier/">Norfolk Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/norwich-terrier/">Norwich Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/papillon/">Papillon</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/pastor-alemao/">Pastor Alemão</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/pastor-australiano/">Pastor Australiano</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/pinscher-miniatura/">Pinscher Miniatura</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/poodle/">Poodle</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/pug/">Pug</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/rottweiler/">Rottweiler</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/sem-raca-definida-srd/">Sem Raça Definida (SRD)</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/shihtzu/">ShihTzu</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/silky-terrier/">Silky Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/skye-terrier/">Skye Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/staffordshire-bull-terrier/">Staffordshire Bull Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/terra-nova/">Terra Nova</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/terrier-escoces/">Terrier Escocês</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/tosa/">Tosa</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/weimaraner/">Weimaraner</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/welsh-corgi-cardigan/">Welsh Corgi (Cardigan)</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/welsh-corgi-pembroke/">Welsh Corgi (Pembroke)</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/west-highland-white-terrier/">West Highland White Terrier</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/whippet/">Whippet</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/xoloitzcuintli/">Xoloitzcuintli</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-cachorros/yorkshire-terrier/">Yorkshire Terrier</option>
+</select>
+<h4>ou</h4>
+<select name="" class="goto_raca">
+<option>Por Grupo</option>
+<option value="https://www.portaldodog.com.br/cachorros/racas-de-cachorros/grupo-1/">Grupo 1</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-2/">Grupo 2</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-3/">Grupo 3</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-4/">Grupo 4</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-5/">Grupo 5</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-6/">Grupo 6</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-7/">Grupo 7</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-8/">Grupo 8</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-9/">Grupo 9</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-10/">Grupo 10</option>
+<option value="https://www.portaldodog.com.br/cachorros/cachorros/racas-de-cachorros/grupo-11/">Grupo 11</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</article>
+<script type="text/javascript" src="./afegao_hound_files/Chart.min.js"></script>
+<script>
+var alt_min = 63;
+var alt_min_2 = 100 - alt_min;
+var alt_max = 74;
+var alt_max_2 = 100 - alt_max;
+var peso_min = 23;
+var peso_min_2 = 100 - peso_min;
+var peso_max = 30;
+var peso_max_2 = 100 - peso_max;
+var altminima = [
+{
+value: alt_min,
+color:"#12bbda",
+highlight: "#0cb1d1",
+label: "Red"
+},
+{
+value: alt_min_2,
+color: "#abdbe5",
+highlight: "#abdbe5",
+label: "Green"
+}
+];
+var altmaxima = [
+{
+value: alt_max,
+color:"#12bbda",
+highlight: "#0cb1d1",
+label: "Red"
+},
+{
+value: alt_max_2,
+color: "#abdbe5",
+highlight: "#abdbe5",
+label: "Green"
+}
+];
+var pesominimo = [
+{
+value: peso_min,
+color:"#12bbda",
+highlight: "#0cb1d1",
+label: "Red"
+},
+{
+value: peso_min_2,
+color: "#abdbe5",
+highlight: "#abdbe5",
+label: "Green"
+}
+];
+var pesomaximo = [
+{
+value: peso_max,
+color:"#12bbda",
+highlight: "#0cb1d1",
+label: "Red"
+},
+{
+value: peso_max_2,
+color: "#abdbe5",
+highlight: "#abdbe5",
+label: "Green"
+}
+];
+window.onload = function(){
+$('.goto_raca').on('change', function () {
+var url = $(this).val(); // get selected value
+if (url) { // require a URL
+window.location = url; // redirect
+}
+return false;
+});
+var ctx = document.getElementById("alturaminima").getContext("2d");
+var ctx2 = document.getElementById("alturamaxima").getContext("2d");
+var ctx3 = document.getElementById("pesominimo").getContext("2d");
+var ctx4 = document.getElementById("pesomaximo").getContext("2d");
+window.myDoughnut = new Chart(ctx).Doughnut(altminima, {responsive : true, animationEasing : "easeOutQuart", percentageInnerCutout : 70});
+window.myDoughnut2 = new Chart(ctx2).Doughnut(altmaxima, {responsive : true, animationEasing : "easeOutQuart", percentageInnerCutout : 70});
+window.myDoughnut3 = new Chart(ctx3).Doughnut(pesominimo, {responsive : true, animationEasing : "easeOutQuart", percentageInnerCutout : 70});
+window.myDoughnut4 = new Chart(ctx4).Doughnut(pesomaximo, {responsive : true, animationEasing : "easeOutQuart", percentageInnerCutout : 70});
+};
+</script>
+</div>
+<footer id="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="logo">
+<a href="https://www.portaldodog.com.br/cachorros" class="logo brand-logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 143.4">
+<path class="st0" d="M12.4 112.8c-1.7-1.9-2.6-4-2.6-6.5V68.6c0-3 0.8-5.3 2.5-7.1s3.8-2.7 6.4-2.7h16.6c4.1 0 7.8 0.9 11.1 2.7 3.2 1.8 5.8 4.2 7.5 7.2 1.8 3.1 2.7 6.5 2.7 10.2 -0.1 5.4-1.8 9.8-5.2 13.3 -3.3 3.5-7.8 5.6-13.4 6.3 -1.2 0.2-2.3 0.2-3.4 0.2h-7v7.7c0 2.7-0.9 4.9-2.7 6.6 -1.7 1.7-3.7 2.5-6.2 2.5C16.3 115.5 14.2 114.6 12.4 112.8zM27.7 83.1h7.1c1.2 0 2.2-0.4 3-1.2 0.9-0.9 1.3-1.9 1.3-3s-0.4-2.1-1.2-2.9c-0.9-0.8-1.9-1.2-3.1-1.2h-7.1C27.7 74.8 27.7 83.1 27.7 83.1z"></path>
+<path class="st0" d="M79.9 114.9c-4.2 0-8.1-1-11.6-2.9s-6.2-4.6-8.2-7.9c-2-3.3-3-7-3.1-10.9 0-3.9 1-7.6 3-11s4.7-6.1 8.2-8.1 7.4-3 11.6-3c3 0 5.8 0.5 8.4 1.5s4.9 2.3 7 4.1c1.3 1.1 2.4 2.3 3.3 3.5 0.9 1.3 1.7 2.6 2.3 4 0.6 1.4 1.1 2.8 1.4 4.3s0.5 3 0.5 4.5c0 2.5-0.4 4.9-1.3 7.3 -0.8 2.4-2.1 4.6-3.8 6.6 -1.7 2-3.7 3.7-6.1 5C88.1 113.9 84.2 114.9 79.9 114.9zM73.9 93.1c0 2.1 0.6 3.9 1.8 5.2 1.2 1.4 2.6 2 4.3 2 0.2 0 0.5-0.1 1.2-0.2 2.7-0.6 4.3-2.4 4.7-5.5 0.1-0.8 0.2-1.4 0.2-1.7 0-1.5-0.3-2.7-1-3.8 -1.2-2.1-2.9-3.1-5-3.1s-3.8 1-5 3.1C74.2 90.3 73.9 91.6 73.9 93.1z"></path>
+<path class="st0" d="M113.4 115.4c-2.4 0-4.4-0.8-6.1-2.4 -1.7-1.6-2.5-3.6-2.5-6V80.9c0-2.4 0.8-4.4 2.5-6.1 1.7-1.7 3.7-2.5 6.1-2.5l8 5.4v-0.4l0.5-0.6 0.9-1c2-2.1 4.2-3.2 6.6-3.3 0.8 0 1.5 0.1 2.1 0.3 1.5 0.4 2.8 1.1 3.8 2.2 1 1.1 1.7 2.3 2 3.7 0.1 0.9 0.2 1.5 0.2 1.9 0 1.8-0.6 3.4-1.9 4.7 -1.3 1.3-3.3 2.4-6 3.4 -0.3 0.1-0.5 0.2-0.7 0.3s-0.5 0.2-0.8 0.3c-1.3 0.5-2.3 1-3.1 1.5 -0.8 0.5-1.4 1.1-1.8 1.8s-0.7 1.5-0.9 2.4c-0.2 0.9-0.2 2.2-0.2 3.9v7.6c0 1.6-0.4 3.1-1.1 4.5 -0.8 1.4-1.8 2.5-3.1 3.3C116.4 115 114.9 115.4 113.4 115.4z"></path>
+<path class="st0" d="M142.1 74.7c1.5-1.3 3.2-2 5.3-2h0.8V69c0-2.4 0.9-4.4 2.6-6.2 1.7-1.7 3.7-2.5 6-2.5 2.4 0 4.4 0.9 6.1 2.6 1.7 1.9 2.6 4 2.6 6.3v3.5h1c2 0 3.7 0.7 5.1 2.1 1.5 1.5 2.2 3.2 2.2 5.2 0 0.6-0.1 1.1-0.2 1.7 -0.2 0.6-0.4 1.1-0.7 1.7 -0.3 0.5-0.7 1-1.1 1.5 -1.5 1.5-3.2 2.3-5.3 2.3h-1.1v19.6c0 2.5-0.9 4.6-2.6 6.3 -1.6 1.7-3.6 2.5-6 2.5s-4.4-0.8-6.1-2.5c-1.7-1.8-2.6-3.9-2.6-6.3V87.1h-0.6c-2.2 0-4-0.8-5.6-2.3 -1.3-1.3-2-2.9-2-4.8C139.9 77.9 140.6 76.1 142.1 74.7z"></path>
+<path class="st0" d="M188.8 72.4c1.6-0.3 2.9-0.5 3.8-0.5 3.8 0 7 1.2 9.5 3.7v0.2l7.1-3.8c0.6-0.4 1.3-0.6 2.1-0.6 1.2 0 2.3 0.5 3.1 1.4 2.1 2.1 3.2 4.7 3.2 7.8v26.2c0 2.5-0.8 4.6-2.4 6.2 -1.6 1.6-3.6 2.4-6.1 2.4l-7.1-4v0.4c-2.3 2.5-5.5 3.7-9.5 3.7 -1.3 0-2.8-0.2-4.4-0.5 -2.3-0.5-4.6-1.4-6.8-3 -2.2-1.5-4.1-3.5-5.8-6 -1.1-1.9-1.9-3.8-2.5-5.9 -0.6-2.1-0.8-4.5-0.8-7.2 0.2-3.5 1-6.7 2.5-9.6 1.5-2.9 3.5-5.4 5.9-7.3C183.2 74.3 185.9 73 188.8 72.4zM189.4 94.2c0 1.8 0.5 3.3 1.5 4.6 1.1 1.4 2.5 2.1 4.2 2.1 1 0 2-0.3 2.9-0.8s1.6-1.3 2.1-2.4c0.5-0.8 0.7-1.5 0.8-2.2 0-0.6 0.1-1.4 0.1-2.4 -0.4-2.6-1.6-4.3-3.5-5.2 -0.9-0.4-1.7-0.6-2.4-0.6 -1.4 0-2.6 0.5-3.6 1.5s-1.7 2.4-2 4c0 0.3 0 0.5-0.1 0.7C189.5 93.7 189.5 93.9 189.4 94.2z"></path>
+<path class="st0" d="M222.6 113.1c-1.7-1.7-2.6-3.8-2.6-6.2V62.2c0-1.5 0.4-2.9 1.2-4.2s1.8-2.3 3.2-3.1c1.3-0.8 2.8-1.2 4.4-1.2 1.5 0 2.9 0.4 4.2 1.2 1.3 0.8 2.3 1.8 3.1 3.1 0.7 1.3 1.1 2.7 1.1 4.3v44.5c0 2.5-0.8 4.6-2.5 6.3 -1.8 1.6-3.8 2.5-6.1 2.5C226.3 115.6 224.3 114.8 222.6 113.1z"></path>
+<path class="st0" d="M281.6 73.6c0.5 0.2 0.9 0.4 1.3 0.6v-12c0-2.4 0.8-4.4 2.5-6.1 1.6-1.7 3.7-2.5 6.1-2.5 1.5 0 3 0.4 4.3 1.2 1.3 0.8 2.3 1.9 3.1 3.2 0.8 1.3 1.1 2.8 1.1 4.3v44.5c0 1.7-0.4 3.1-1.1 4.4 -0.7 1.3-1.8 2.3-3 3 -1.3 0.7-2.7 1.1-4.3 1.1l-7.1-4.2v0.3c-2.4 2.7-5.7 4.1-9.7 4.1 -1 0-2.3-0.1-3.7-0.4 -4-0.8-7.5-2.7-10.5-5.8 -2.9-3.1-4.8-6.9-5.7-11.4 -0.3-1.5-0.4-2.9-0.4-4.3 0-1.7 0.2-3.4 0.5-4.9 0.7-3.1 1.9-5.8 3.6-8.2 1.7-2.4 3.7-4.2 6.2-5.7 2.9-1.7 6.1-2.6 9.4-2.6C276.5 72.3 279 72.7 281.6 73.6zM271.6 93.7c0 2.1 0.6 3.7 1.7 5 1.2 1.3 2.6 1.9 4.3 1.9 1.5 0 2.7-0.6 3.7-1.5 1-1 1.6-2.4 1.9-4.2v-2.6c-0.6-3-2.1-4.7-4.6-5.3 -0.6-0.1-1-0.2-1.3-0.2 -1.4 0-2.7 0.5-3.7 1.5s-1.7 2.4-2 4.1C271.6 92.8 271.6 93.2 271.6 93.7z"></path>
+<path class="st0" d="M324.9 115.8c-4.2 0-8.1-1-11.6-2.9s-6.2-4.6-8.2-7.9c-2-3.3-3-7-3.1-10.9 0-3.9 1-7.6 3-11s4.7-6.1 8.2-8.1 7.4-3 11.6-3c3 0 5.8 0.5 8.4 1.5s4.9 2.3 7 4.1c1.3 1.1 2.4 2.3 3.3 3.5 0.9 1.3 1.7 2.6 2.3 4 0.6 1.4 1.1 2.8 1.4 4.3s0.5 3 0.5 4.5c0 2.5-0.4 4.9-1.3 7.3 -0.8 2.4-2.1 4.6-3.8 6.6 -1.7 2-3.7 3.7-6.1 5C333.1 114.8 329.2 115.8 324.9 115.8zM318.9 94c0 2.1 0.6 3.9 1.8 5.2 1.2 1.4 2.6 2 4.3 2 0.2 0 0.5-0.1 1.2-0.2 2.7-0.6 4.3-2.4 4.7-5.5 0.1-0.8 0.2-1.4 0.2-1.7 0-1.5-0.3-2.7-1-3.8 -1.2-2.1-2.9-3.1-5-3.1s-3.8 1-5 3.1C319.2 91.2 318.9 92.5 318.9 94z"></path>
+<path class="st0" d="M366 105.8v-38c0-1.6 0.4-3.1 1.2-4.5 0.8-1.4 1.9-2.5 3.3-3.3s2.9-1.2 4.5-1.2h12.2c4.3 0 8.2 0.5 11.7 1.4s6.6 2.3 9.2 4.1 4.8 4.1 6.5 6.7c1.7 2.6 3 5.7 3.9 9.1 0.5 2.2 0.8 4.6 0.8 7 -0.1 5.2-1.4 10-3.9 14.2s-6 7.6-10.5 10 -9.5 3.6-15 3.6h-15c-2.4 0-4.5-0.9-6.3-2.7C366.9 110.4 366 108.3 366 105.8zM383.8 99.4h4.3c2.6 0 5-0.5 7-1.6 2-1 3.6-2.5 4.7-4.4s1.7-3.9 1.7-6.3c0-0.9-0.1-2-0.4-3.2 -0.6-2.9-2.1-5.3-4.5-7 -2.4-1.8-5.5-2.6-9.2-2.6h-3.6V99.4z"></path>
+<path class="st0" d="M443.9 115.8c-4.2 0-8.1-1-11.6-2.9s-6.2-4.6-8.2-7.9c-2-3.3-3-7-3.1-10.9 0-3.9 1-7.6 3-11s4.7-6.1 8.2-8.1 7.4-3 11.6-3c3 0 5.8 0.5 8.4 1.5s4.9 2.3 7 4.1c1.3 1.1 2.4 2.3 3.3 3.5 0.9 1.3 1.7 2.6 2.3 4 0.6 1.4 1.1 2.8 1.4 4.3s0.5 3 0.5 4.5c0 2.5-0.4 4.9-1.3 7.3 -0.8 2.4-2.1 4.6-3.8 6.6 -1.7 2-3.7 3.7-6.1 5C452.1 114.8 448.2 115.8 443.9 115.8zM437.9 94c0 2.1 0.6 3.9 1.8 5.2 1.2 1.4 2.6 2 4.3 2 0.2 0 0.5-0.1 1.2-0.2 2.7-0.6 4.3-2.4 4.7-5.5 0.1-0.8 0.2-1.4 0.2-1.7 0-1.5-0.3-2.7-1-3.8 -1.2-2.1-2.9-3.1-5-3.1s-3.8 1-5 3.1C438.2 91.2 437.9 92.5 437.9 94z"></path>
+<path class="st0" d="M485.2 72.6c1.4-0.3 2.7-0.4 4.1-0.4 3.8 0 6.9 1.2 9.2 3.6v0.4l7.1-4c0.5-0.4 1.2-0.6 2.1-0.6 1.2 0 2.3 0.5 3.2 1.4 2.1 2.2 3.2 4.8 3.2 8v26.4c0 4.3-0.5 8.1-1.5 11.5 -1 3.3-2.5 6.2-4.5 8.4 -2 2.3-4.5 4-7.4 5.2 -3 1.2-6.3 1.8-10 1.8 -1.1 0-1.9 0-2.4-0.1 -4.7-0.3-8.3-1.2-10.9-2.6 -2.1-1.1-3.6-2.4-4.7-3.7 -1-1.3-1.5-2.7-1.5-4.2 0-1.1 0.3-2.1 0.8-3.2 1.3-2.6 3.3-3.9 6.1-3.9 1 0 1.9 0.2 2.9 0.5h0.2l2.5 1c0.1 0.1 0.2 0.1 0.5 0.2 0.3 0.1 0.5 0.2 0.7 0.3 1.9 0.7 3.9 1 6 1 1.9-0.3 3.4-0.8 4.3-1.5 0.9-0.8 1.5-1.8 1.6-3.2 0-0.3 0.1-0.6 0.1-1 -2.5 1.4-5.1 2.1-7.7 2.1 -1 0-2.3-0.1-4-0.4 -2.3-0.5-4.5-1.3-6.6-2.5 -3.1-2-5.5-4.5-7.2-7.7s-2.5-6.8-2.5-10.7c0-2.9 0.5-5.5 1.3-8s2-4.6 3.5-6.6c1.5-1.9 3.2-3.5 5.3-4.8C480.8 73.8 482.9 73 485.2 72.6zM485.8 94c0 1.9 0.6 3.4 1.7 4.6 1.1 1.2 2.5 1.8 4.1 1.8 0.6 0 1.1-0.1 1.6-0.2 2.2-0.6 3.7-2.2 4.3-4.8 0-0.6 0.1-1.4 0.1-2.5 -0.3-1.7-1-3.1-2.1-4.1s-2.3-1.5-3.8-1.5c-0.5 0-1 0.1-1.6 0.2 -1 0.4-1.9 1-2.8 1.8C486.4 90.5 485.8 92.1 485.8 94z"></path>
+<path class="st0" d="M484.6 5.6c-14.8 0-26.8 12-26.8 26.8s12 26.8 26.8 26.8l0 0h26.8V32.4C511.4 17.6 499.4 5.6 484.6 5.6zM490.3 16c2.3-2.3 6-2.3 8.2 0 2.3 2.3 2.3 6 0 8.2 -2.3 2.3-6 2.3-8.2 0C488 22 488 18.3 490.3 16zM476.4 15.8c2.3-2.3 6-2.3 8.2 0 2.3 2.3 2.3 6 0 8.2 -2.3 2.3-6 2.3-8.2 0C474.2 21.7 474.2 18 476.4 15.8zM467.3 25.7c2.3-2.3 6-2.3 8.2 0 2.3 2.3 2.3 6 0 8.2 -2.3 2.3-6 2.3-8.2 0C465 31.7 465 28 467.3 25.7zM477.4 47.7c-2.3 2.3-6 2.3-8.2 0 -2.3-2.3-2.3-6 0-8.2 2.3-2.3 6-2.3 8.2 0C479.7 41.7 479.7 45.4 477.4 47.7zM497.1 42.6c-2.7 0.6-3.4 3.8-3.5 3.8 -2.8 9.8-9.6 4.8-9.7 4.8 -5.5-6.3-3.8-17.2-3.9-17.3 0.6-4.6 4.5-5.7 4.5-5.7 11.4-2.9 19.3 2.2 19.3 2.2C510.8 36 497.1 42.6 497.1 42.6z"></path>
+<path class="st0" d="M540.5 16.2c-14.8 0-26.8 12-26.8 26.8v26.8h26.8l0 0c14.8 0 26.8-12 26.8-26.8S555.3 16.2 540.5 16.2zM540.5 26.4c2.3-2.3 6-2.3 8.2 0 2.3 2.3 2.3 6 0 8.2 -2.3 2.3-6 2.3-8.2 0C538.2 32.4 538.2 28.7 540.5 26.4zM526.6 26.7c2.3-2.3 6-2.3 8.2 0 2.3 2.3 2.3 6 0 8.2 -2.3 2.3-6 2.3-8.2 0C524.4 32.6 524.4 28.9 526.6 26.7zM541.4 61.8c-0.1 0.1-6.9 5.1-9.7-4.8 -0.1 0-0.9-3.2-3.5-3.8 0 0-13.7-6.6-6.7-12.2 0 0 8-5.1 19.3-2.2 0 0 3.9 1 4.5 5.7C545.1 44.6 546.8 55.5 541.4 61.8zM556 58.3c-2.3 2.3-6 2.3-8.2 0 -2.3-2.3-2.3-6 0-8.2 2.3-2.3 6-2.3 8.2 0C558.2 52.4 558.2 56.1 556 58.3zM557.9 44.6c-2.3 2.3-6 2.3-8.2 0 -2.3-2.3-2.3-6 0-8.2 2.3-2.3 6-2.3 8.2 0C560.1 38.6 560.1 42.3 557.9 44.6z"></path>
+</svg></a>
+</div>
+<nav>
+<ul id="menu-footer-menu" class="menu"><li id="menu-item-162000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162000"><a href="https://www.portaldodog.com.br/cachorros/anuncie/">Anuncie</a></li>
+<li id="menu-item-162001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162001"><a href="https://www.portaldodog.com.br/cachorros/fale-conosco/">Fale Conosco</a></li>
+<li id="menu-item-162002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162002"><a href="https://www.portaldodog.com.br/cachorros/termos-de-uso/">Termos de Uso</a></li>
+</ul> </nav>
+<div class="disclaimer">As Informações contidas neste site possuem caráter meramente informativo, elas não substituem qualquer aconselhamento médico ou de qualquer outro profissional. Não deixe de consultar o seu veterinário de confiança.</div>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="./afegao_hound_files/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="./afegao_hound_files/sticky-sidebar.js"></script>
+<script type="text/javascript">
+var stickySidebar = new StickySidebar('#sidebar_', {
+topSpacing: 20,
+bottomSpacing: 0,
+containerSelector: '.internas',
+innerWrapperSelector: '.inner_sidebar'
+});
+</script>
+<script type="text/javascript" src="./afegao_hound_files/slick.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+$('.ver_mais').click(function() {
+$(this).hide();
+$('.resumo .content').addClass('show');
+return false;
+});
+jQuery('.slider-fotos').bxSlider({
+pagerCustom: '#bx-pager',
+adaptiveHeight: true
+});
+jQuery('.slider-fotos2').bxSlider({
+pagerCustom: '#bx-pager2',
+adaptiveHeight: true
+});
+$('a[href*=\\#]').not('.comment-reply-link').on('click', function(event) {
+var elemento = $(this).attr('href');
+if (this.pathname === window.location.pathname) {
+$('body').removeClass('openMenu');
+$("html, body").delay(0).animate({
+scrollTop: $(elemento).offset().top - 110
+}, 1000);
+return false;
+}
+});
+// Menu mobile
+$("#botao").click(function() {
+$("body").toggleClass('openMenu');
+});
+$(".busca input[type=image], .busca .close").click(function() {
+var busca = $(document.querySelector("#header .busca input[type=text]")).val();
+if (!busca) {
+$(".busca").toggleClass("open");
+return false;
+}
+});
+$('.slide-destaque').slick({
+dots: true,
+infinite: false,
+speed: 300,
+slidesToShow: 3,
+slidesToScroll: 1,
+nextArrow: '<button class="slick-right"><img src="https://www.portaldodog.com.br/cachorros/wp-content/themes/pdd2020/imagens/arrow_right.png"></button>',
+prevArrow: '<button class="slick-left"><img src="https://www.portaldodog.com.br/cachorros/wp-content/themes/pdd2020/imagens/arrow_left.png"></button>',
+responsive: [{
+breakpoint: 3000,
+settings: "unslick"
+},
+{
+breakpoint: 1000,
+settings: {
+slidesToShow: 1,
+slidesToScroll: 1,
+infinite: true,
+dots: true
+}
+}
+]
+});
+});
+</script>
+
+<script>
+(function(i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r;
+i[r] = i[r] || function() {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date();
+a = s.createElement(o),
+m = s.getElementsByTagName(o)[0];
+a.async = 1;
+a.src = g;
+m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-19765480-1', 'parceiro');
+ga('create', 'UA-66850008-1', 'auto', {
+'name': 'newTracker'
+});
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+</script>
+
+<script>
+var _comscore = _comscore || [];
+_comscore.push({
+c1: "2",
+c2: "20966896"
+});
+(function() {
+var s = document.createElement("script"),
+el =
+document.getElementsByTagName("script")[0];
+s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script> <noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&c2=20966896&cv=2.0&cj=1">
+</noscript> 
+<div class="code-block code-block-6 ai-viewport-3" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+
+<div class="ads" style="bottom:0;position:fixed;width:100%; padding-top:5px; padding-bottom:5px; background-color:#f1f1f1; z-index:999;">
+<span class="close2" style="">X</span>
+<div id="div-gpt-ad-bottom-leaderboard" class="ad-sticky-banner" data-google-query-id="CLnW1IOa4f0CFX-ylQIdbdALNg">
+
+<div id="google_ads_iframe_/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard_2" name="google_ads_iframe_/21717805079/Portaldodog.com.br-ROS-Top-Leaderboard_2" title="3rd party ad content" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" role="region" aria-label="Advertisement" tabindex="0" data-load-complete="true" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" src="./afegao_hound_files/saved_resource(1).html"></iframe></div></div>
+</div></div>
+<script type="text/javascript" id="colorbox-js-extra">
+/* <![CDATA[ */
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6.2","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"true","colorboxSlideshowAuto":"false","colorboxScalePhotos":"true","colorboxPreloading":"true","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"fechar","colorboxNext":"pr\u00f3xima","colorboxPrevious":"anterior","colorboxSlideshowStart":"iniciar apresenta\u00e7\u00e3o","colorboxSlideshowStop":"parar apresenta\u00e7\u00e3o","colorboxCurrent":"Imagem {current} de {total}","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"80%","colorboxImageMaxHeight":"80%","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"80%","colorboxLinkWidth":"80%","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./afegao_hound_files/jquery.colorbox-min.js" id="colorbox-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/jquery-colorbox-wrapper-min.js" id="colorbox-wrapper-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/photon.min.js" id="jetpack-photon-js"></script>
+<script type="text/javascript" id="wp-email-js-extra">
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"https:\/\/www.portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./afegao_hound_files/email-js.js" id="wp-email-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/flatpickr.min.js" id="ppress-flatpickr-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/select2.min.js" id="ppress-select2-js"></script>
+<script type="text/javascript" id="ppress-frontend-script-js-extra">
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"5d9bdac2a5","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./afegao_hound_files/frontend.min.js" id="ppress-frontend-script-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/intersection-observer.js" id="jetpack-lazy-images-polyfill-intersectionobserver-js"></script>
+<script type="text/javascript" id="jetpack-lazy-images-js-extra">
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"As imagens ainda est\u00e3o sendo carregadas. Cancele a impress\u00e3o e tente novamente."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./afegao_hound_files/lazy-images.js" id="jetpack-lazy-images-js"></script>
+<script type="text/javascript" src="./afegao_hound_files/OneSignalSDK.js" async="async" id="remote_sdk-js"></script>
+<script src="./afegao_hound_files/e-202310.js" defer=""></script>
+<script>
+_stq = window._stq || [];
+_stq.push([ 'view', {v:'ext',j:'1:11.4',blog:'63272846',post:'45860',tz:'-3',srv:'www.portaldodog.com.br'} ]);
+_stq.push([ 'clickTrackerInit', '63272846', '45860' ]);
+</script>
+<script>
+jQuery('.ads .close2').click(function(){
+jQuery(this).parent().hide();
+});
+</script>
+<script type="text/javascript">
+(function(c, l, a, r, i, t, y) {
+c[a] = c[a] || function() {
+(c[a].q = c[a].q || []).push(arguments)
+};
+t = l.createElement(r);
+t.async = 1;
+t.src = "https://www.clarity.ms/tag/" + i;
+y = l.getElementsByTagName(r)[0];
+y.parentNode.insertBefore(t, y);
+})(window, document, "clarity", "script", "41zcf9uvuq");
+</script><iframe src="./afegao_hound_files/container.html" style="visibility: hidden; display: none;"></iframe>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><img src="./afegao_hound_files/g.gif" alt="" width="6" height="5" id="wpstats"><iframe name="google_ads_top_frame" id="google_ads_top_frame" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;" src="./afegao_hound_files/saved_resource(2).html"></iframe><div id="___tcf___container___" style="position: absolute; width: 100%; line-height: 1; top: 0px; left: 0px; height: 100vh; overflow: visible; pointer-events: none; max-height: 10722.6px;"></div><div id="onesignal-slidedown-container" class="onesignal-slidedown-container onesignal-reset slide-down"><div id="onesignal-slidedown-dialog" class="onesignal-slidedown-dialog"><div id="normal-slidedown"><div class="slidedown-body" id="slidedown-body"><div class="slidedown-body-icon"><img alt="notification icon" src="./afegao_hound_files/629ec4cb-8833-4742-bc5e-7a2f06ee8359.png"></div><div class="slidedown-body-message">Que saber tudo sobre saúde e o bem estar do seu DOG?</div><div class="clearfix"></div><div id="onesignal-loading-container"></div></div><div class="slidedown-footer" id="slidedown-footer"><button class="align-right primary slidedown-button" id="onesignal-slidedown-allow-button">SIM, CLARO!</button><button class="align-right secondary slidedown-button" id="onesignal-slidedown-cancel-button">Ficar por fora!</button><div class="clearfix"></div></div></div></div></div><iframe src="./afegao_hound_files/syncframe.html" width="0" height="0" frameborder="0" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe><iframe src="./afegao_hound_files/syncframe(1).html" width="0" height="0" frameborder="0" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe><iframe src="./afegao_hound_files/aframe.html" width="0" height="0" style="display: none;"></iframe></body><script>(function(){setInterval((function(){var e=[];Array.from(document.querySelectorAll("iframe[data-execution-id]")).forEach((function(n){try{var t=n.getAttribute("iframe[data-execution-id]");t&&e.push(t)}catch(e){}}));var n=window.adpnExecutions.filter((function(n){return!e.includes(n)}));n.length&&e.length&&(n.forEach((function(e){var n=new CustomEvent("event-remove-execution",{detail:{app:"adpone-loader",executionId:e}});top.dispatchEvent(n),document.querySelectorAll("iframe[data-execution-id='"+e+"']").forEach((function(e){return e.remove()}))})),window.adpnExecutions=window.adpnExecutions.filter((function(e){return!n.includes(e)})))}),500)})();</script></html>
