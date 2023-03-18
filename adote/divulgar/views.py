@@ -4,7 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from django.contrib.messages import constants
 
-from .models import Tag, Raca
+from .models import Tag, Raca, Pet
 
 
 @login_required
@@ -43,7 +43,7 @@ def novo_pet(request):
             tag = Tag.objects.get(id=tag_id)
             pet.tags.add(tag)
         pet.save()
-        
+
         tags = Tag.objects.all()
         racas = Raca.objects.all()
         messages.add_message(request, constants.SUCCESS, 'Novo pet cadastrado')
@@ -55,5 +55,5 @@ def novo_pet(request):
 def seus_pets(request):
     if request.method == "GET":
         #pets = Pet.objects.filter(usuario=request.user)
-        
+
         return render(request, 'seus_pets.html', {'pets': pets})
